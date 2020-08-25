@@ -94,7 +94,7 @@ performance.
 
 
 
-Conclusions:
+7.Conclusions:
 
 
 In order to achieve more accuracy than collaborative fltering methods; the maximal clique method used in social network analysis introduces in this paper is the first time
